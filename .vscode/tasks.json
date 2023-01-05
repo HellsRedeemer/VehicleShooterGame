@@ -1,0 +1,437 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "VehicleShooter Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Debug",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Debug",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"VehicleShooter Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Debug",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"DebugGame",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"DebugGame",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"VehicleShooter Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"DebugGame",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Development",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Development",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"VehicleShooter Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Development",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Test",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Test",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"VehicleShooter Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Test",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Shipping",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Shipping",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"VehicleShooter Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooter Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"VehicleShooter",
+				"Win64",
+				"Shipping",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"Debug",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"Debug",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"VehicleShooterEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"Debug",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"VehicleShooterEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"Development",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"Development",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"VehicleShooterEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"label": "VehicleShooterEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"VehicleShooterEditor",
+				"Win64",
+				"Development",
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\UE5\\UE_5.0"
+			}
+		}
+	]
+}

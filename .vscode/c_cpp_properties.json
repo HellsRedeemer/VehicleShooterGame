@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "VehicleShooterEditor Editor Win64 Development (VehicleShooter)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

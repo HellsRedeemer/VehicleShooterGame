@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch VehicleShooter (Debug)",
+			"request": "launch",
+			"program": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "VehicleShooter Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "C:\\UE5\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE5\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch VehicleShooter (DebugGame)",
+			"request": "launch",
+			"program": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "VehicleShooter Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "C:\\UE5\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE5\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch VehicleShooter (Development)",
+			"request": "launch",
+			"program": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "VehicleShooter Win64 Development Build",
+			"args": [
+			],
+			"cwd": "C:\\UE5\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE5\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch VehicleShooter (Test)",
+			"request": "launch",
+			"program": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "VehicleShooter Win64 Test Build",
+			"args": [
+			],
+			"cwd": "C:\\UE5\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE5\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch VehicleShooter (Shipping)",
+			"request": "launch",
+			"program": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "VehicleShooter Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "C:\\UE5\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE5\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch VehicleShooterEditor (Debug)",
+			"request": "launch",
+			"program": "C:\\UE5\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "VehicleShooterEditor Win64 Debug Build",
+			"args": [
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject"
+			],
+			"cwd": "C:\\UE5\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE5\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch VehicleShooterEditor (DebugGame)",
+			"request": "launch",
+			"program": "C:\\UE5\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "VehicleShooterEditor Win64 DebugGame Build",
+			"args": [
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject"
+			],
+			"cwd": "C:\\UE5\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE5\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch VehicleShooterEditor (Development)",
+			"request": "launch",
+			"program": "C:\\UE5\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "VehicleShooterEditor Win64 Development Build",
+			"args": [
+				"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject"
+			],
+			"cwd": "C:\\UE5\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE5\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\UE5\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "C:\\UE5\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\VehicleShooter.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "C:\\UE5\\UE_5.0"
+		}
+	]
+}

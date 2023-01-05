@@ -1,0 +1,312 @@
+[
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\MultiplayerSessions.51.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\Menu.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\MultiplayerSessions.51.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\MultiplayerSessions.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\MultiplayerSessions.51.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\MultiplayerSessionSubsystem.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\MultiplayerSessions.51.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Public\\Menu.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\MultiplayerSessions.51.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Public\\MultiplayerSessions.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\MultiplayerSessions.51.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Public\\MultiplayerSessionSubsystem.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\MultiplayerSessions.51.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Components\\HealthComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Components\\HealthComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Components\\WeaponComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Components\\WeaponComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Gamemode\\Control\\ControlGameMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Gamemode\\Control\\ControlGameMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Gamemode\\Domination\\DominationFlag.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Gamemode\\Domination\\DominationFlag.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Gamemode\\Domination\\DominationGameMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Gamemode\\Domination\\DominationGameMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Gamemode\\VehicleShooterGamemode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Gamemode\\VehicleShooterGamemode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\GameState\\VehicleShooterGameState.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\GameState\\VehicleShooterGameState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Interfaces\\TeamsInterface.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Interfaces\\TeamsInterface.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\PlayerController\\VehicleShooterController.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\PlayerController\\VehicleShooterController.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\PlayerStates\\VehicleShooterPlayerState.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\PlayerStates\\VehicleShooterPlayerState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Projectile\\BaseProjectile.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Projectile\\BaseProjectile.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Types\\GameModes.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Types\\Teams.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\BaseGameModeHUD.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\BaseGameModeHUD.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\Control\\ControlGameModeHUD.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\Control\\ControlGameModeHUD.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\Control\\ControlWidget.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\Control\\ControlWidget.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\Domination\\DominationHUD.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\Domination\\DominationHUD.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\Domination\\DominationWidget.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\GameMode\\Domination\\DominationWidget.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\MainMenu\\GameModeSelectButton.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\MainMenu\\GameModeSelectButton.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\MainMenu\\HostGameDetailsWidget.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\MainMenu\\HostGameDetailsWidget.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\MainMenu\\JoinGameWidget.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\MainMenu\\JoinGameWidget.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\MainMenu\\MainMenuWidget.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\MainMenu\\MainMenuWidget.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\Misc\\PauseWidget.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\Misc\\PauseWidget.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\Vehicle\\MainHUD.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\UI\\Vehicle\\MainHUD.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Vehicles\\AnimInstances\\BaseVehicleAnimInstance.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Vehicles\\AnimInstances\\BaseVehicleAnimInstance.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Vehicles\\BaseTank.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Vehicles\\BaseTank.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Vehicles\\BaseVehicle.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\Vehicles\\BaseVehicle.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\VehicleShooter.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\VehicleShooter.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\Source\\VehicleShooter\\VehicleShooter.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CURRENT UNI PROJECTS\\Ue5\\VehicleShooter\\.vscode\\compileCommands_VehicleShooter\\VehicleShooter.217.rsp\"",
+		"directory": "C:\\UE5\\UE_5.0\\Engine\\Source"
+	}
+]
